@@ -1,0 +1,7 @@
+
+import { CSVLink } from "react-csv";          
+          
+          
+          <CSVLink data={[{name: "a2", age :1},{name: "a6", age :1},{name: "a5", age :3}]}>
+                  <Button className="RemoveBtn">{"Import"}</Button>
+                </CSVLink>
